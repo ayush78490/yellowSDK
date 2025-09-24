@@ -1,0 +1,14 @@
+{
+  "name": "com.ayush.yellow-sdk",
+  "version": "1.0.0",
+  "displayName": "Yellow SDK (Nitrolite Unity Integration)",
+  "description": "ERC-7824 state channels SDK for Unity: Login, balance checks, and transactions via Nitrolite.",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": ["web3", "nitrolite", "erc7824", "blockchain"],
+  "author": {
+    "name": "Ayush",
+    "email": "ayush@example.com",
+    "url": "https://github.com/ayush78490"
+  }
+}
